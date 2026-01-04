@@ -18,25 +18,25 @@ Full-stack Uber clone with real-time GPS tracking, dynamic pricing, and Stripe p
 - **Features**: Live location tracking, smart driver matching, secure payments, route optimization
 - **Highlights**: Built complete payment flow with Stripe Elements, implemented real-time pricing algorithm using route calculations
 
-### 📱 [ScanView - Document Scanner](https://github.com/Ushehu/scanview)
+### 📱 [ScanView - Document Scanner](https://github.com/Ushehu/Scanview-Professional-Document-Scanner)
 Professional Adobe Scan-style document scanning app with OCR and 12 productivity tools
 - **Tech**: React Native, Expo, TypeScript, Supabase, OCR.space API
 - **Features**: OCR text extraction, image filters, QR scanner, translator, cloud backup, document merger
 - **Highlights**: Implemented 12 fully functional tools including translation and image compression
 
-### 🏡 [Real Estate App](https://github.com/Ushehu/realestate-app)
+### 🏡 [Real Estate App](https://github.com/Ushehu/Real-Estate-App)
 Modern property listing platform with Google OAuth and advanced search
 - **Tech**: React Native, Expo, TypeScript, Appwrite, Google Maps API
 - **Features**: Property search/filter, agent profiles, reviews & ratings, image galleries, location maps
 - **Highlights**: Real-time database with Appwrite, complex filtering system, type-safe development
 
-### 🧠 [AI Study Assistant](https://github.com/Ushehu/ai-study-assistant)
+### 🧠 [AI Study Assistant](https://github.com/Ushehu/Ai-Study-Assistant)
 AI-powered learning companion with instant Q&A and smart bookmarking
 - **Tech**: React Native, Expo, TypeScript, Firebase, Groq AI (LLaMA 3.3 70B)
 - **Features**: AI-powered answers, bookmark system, voice input, offline storage
 - **Highlights**: Fast AI integration with Groq, secure Firebase authentication, Zustand state management
 
-### 🍕 [ChopChop - Food Delivery App](https://github.com/Ushehu/chopchop)
+### 🍕 [ChopChop - Food Delivery App](https://github.com/Ushehu/chopchop-food-delivery-app)
 Modern food delivery platform with user profiles and real-time updates
 - **Tech**: React Native, Expo, TypeScript, Appwrite, NativeWind
 - **Features**: Restaurant browsing, cart management, order history, profile with avatar upload
