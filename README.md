@@ -12,7 +12,7 @@ Building production-ready mobile applications with modern technologies. Based in
 
 ## 🚀 Featured Projects
 
-### 🚗 [MyRide - Ride Booking App](https://github.com/Ushehu/myride)
+### 🚗 [MyRide - Ride Booking App](https://github.com/Ushehu/MyRide-App)
 Full-stack Uber clone with real-time GPS tracking, dynamic pricing, and Stripe payment integration
 - **Tech**: React Native, Expo, TypeScript, PostgreSQL, Stripe API, Geoapify
 - **Features**: Live location tracking, smart driver matching, secure payments, route optimization
