@@ -122,7 +122,7 @@ NativeWind • Tailwind CSS • Custom Animations • Responsive Design
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn**: [linkedin.com/in/umar-faruk-shehu](https://www.linkedin.com/in/umar-faruk-shehu-bb637224a/)
+- 💼 **LinkedIn**: [linkedin.com/in/umar-faruk-shehu](https://www.linkedin.com/in/ufshehu/)
 - 📧 **Email**: ushehu132@gmail.com
 - 💻 **GitHub**: [@Ushehu](https://github.com/Ushehu)
 - 📱 **Location**: Jos, Plateau State, Nigeria
